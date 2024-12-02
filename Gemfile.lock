@@ -25,7 +25,7 @@ GEM
     kgio (2.11.4)
     language_server-protocol (3.17.0.3)
     method_source (1.1.0)
-    minitest (5.25.1)
+    minitest (5.25.2)
     minitest-around (0.5.0)
       minitest (~> 5.0)
     minitest-focus (1.4.0)
